@@ -1,6 +1,9 @@
 <template>
   <div class="page_header">
-    my header
+    <span>logo</span>
+
+    <nuxt-link to="/">首页</nuxt-link>
+    <nuxt-link to="/about">关于</nuxt-link>
   </div>
 </template>
 
