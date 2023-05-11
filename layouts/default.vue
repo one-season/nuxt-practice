@@ -1,12 +1,12 @@
 <template>
   <div class="layout">
-    <MyAppHeader />
+    <my-app-header />
 
-    <HelloWorld />
+    <hello-world />
 
     <slot></slot>
     
-    <MyAppFooter />
+    <my-app-footer />
   </div>
 </template>
 

@@ -2,9 +2,9 @@
   <div class="page_header">
     <span>logo</span>
 
-    <nuxt-link to="/">首页</nuxt-link>
-    <nuxt-link to="/about">关于</nuxt-link>
-    <nuxt-link to="/profile">个人中心</nuxt-link>
+    <NuxtLink to="/">首页</NuxtLink>
+    <NuxtLink to="/about">关于</NuxtLink>
+    <NuxtLink to="/profile">个人中心</NuxtLink>
   </div>
 </template>
 
