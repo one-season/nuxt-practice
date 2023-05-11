@@ -4,6 +4,7 @@
 
     <nuxt-link to="/">首页</nuxt-link>
     <nuxt-link to="/about">关于</nuxt-link>
+    <nuxt-link to="/profile">个人中心</nuxt-link>
   </div>
 </template>
 
