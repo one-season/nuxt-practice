@@ -1,5 +1,14 @@
 <template>
-  <div>
-    <hello-world></hello-world>
-  </div>
+  <NuxtLayout>
+    <div class="app">
+      <NuxtPage />
+    </div>
+  </NuxtLayout>
 </template>
+
+
+<style>
+  .app {
+    height: 600px;
+  }
+</style>
